@@ -1,0 +1,2 @@
+python -m nose -d --with-coverage --cover-inclusive --cover-package clifftablib 
+
